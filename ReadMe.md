@@ -1,4 +1,4 @@
-miniGrep
+mini_grep
 =======
 It's a simple shell program written in Rust.
 
